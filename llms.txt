@@ -1,0 +1,25 @@
+# MySufler
+
+> MySufler (formerly Sufler) is a teleprompter camera for iPhone (an Android version for Google Play is in preparation): the script runs as one line over the camera preview, the current word is lit, and the line is not part of the recorded video. Free to download; Pro adds more. Developer: Viktor Skrynnikov.
+
+## Facts
+- Platforms: iPhone (App Store: https://apps.apple.com/app/id6832999413); an Android version for Google Play is in preparation.
+- Without Pro the line moves for 10 minutes of reading in total. Pro: $1.99 a month, $18.99 a year (new subscribers get the first week free), or $39.99 once. US prices; the App Store shows your local price.
+- Pro adds two lines, nine colours for the current word and four typefaces for the line, 4K, 60 fps, ProRes and Apple Log where the iPhone's camera has them, the window over other apps, and voice following (speech is recognised on the phone, nothing leaves it).
+- Scripts can be typed, pasted or imported from .txt, .rtf, .docx and .pdf files. The recorded video carries no watermark.
+- Privacy: no data collected. No accounts, ads, analytics or tracking; scripts, videos and settings stay on the phone.
+- The interface comes in 11 languages, by the device language.
+
+## Pages
+- [MySufler, English](https://vlegacy.github.io/sufler-preview/): the landing page
+- [MySufler, Українська](https://vlegacy.github.io/sufler-preview/uk/): the landing page in uk
+- [MySufler, Русский](https://vlegacy.github.io/sufler-preview/ru/): the landing page in ru
+- [MySufler, Español](https://vlegacy.github.io/sufler-preview/es/): the landing page in es
+- [MySufler, Français](https://vlegacy.github.io/sufler-preview/fr/): the landing page in fr
+- [MySufler, Português (Brasil)](https://vlegacy.github.io/sufler-preview/pt-br/): the landing page in pt-BR
+- [MySufler, Tiếng Việt](https://vlegacy.github.io/sufler-preview/vi/): the landing page in vi
+- [MySufler, 한국어](https://vlegacy.github.io/sufler-preview/ko/): the landing page in ko
+- [MySufler, 简体中文](https://vlegacy.github.io/sufler-preview/zh-hans/): the landing page in zh-Hans
+- [MySufler, 繁體中文](https://vlegacy.github.io/sufler-preview/zh-hant/): the landing page in zh-Hant
+- Privacy policy: [en](https://vlegacy.github.io/sufler-preview/privacy/), [uk](https://vlegacy.github.io/sufler-preview/uk/privacy/), [ru](https://vlegacy.github.io/sufler-preview/ru/privacy/), [es](https://vlegacy.github.io/sufler-preview/es/privacy/), [fr](https://vlegacy.github.io/sufler-preview/fr/privacy/), [pt-BR](https://vlegacy.github.io/sufler-preview/pt-br/privacy/), [vi](https://vlegacy.github.io/sufler-preview/vi/privacy/), [ko](https://vlegacy.github.io/sufler-preview/ko/privacy/), [zh-Hans](https://vlegacy.github.io/sufler-preview/zh-hans/privacy/), [zh-Hant](https://vlegacy.github.io/sufler-preview/zh-hant/privacy/)
+- Support: [en](https://vlegacy.github.io/sufler-preview/support/), [uk](https://vlegacy.github.io/sufler-preview/uk/support/), [ru](https://vlegacy.github.io/sufler-preview/ru/support/), [es](https://vlegacy.github.io/sufler-preview/es/support/), [fr](https://vlegacy.github.io/sufler-preview/fr/support/), [pt-BR](https://vlegacy.github.io/sufler-preview/pt-br/support/), [vi](https://vlegacy.github.io/sufler-preview/vi/support/), [ko](https://vlegacy.github.io/sufler-preview/ko/support/), [zh-Hans](https://vlegacy.github.io/sufler-preview/zh-hans/support/), [zh-Hant](https://vlegacy.github.io/sufler-preview/zh-hant/support/)
